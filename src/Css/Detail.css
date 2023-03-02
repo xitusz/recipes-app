@@ -1,0 +1,22 @@
+* {
+  margin: 0 10px;
+}
+
+.ingredient {
+  background-color: grey;
+}
+
+h3 {
+  font-size: 30px;
+  margin-left: 10px;
+}
+
+.ingredient li {
+  list-style-type: square;
+}
+
+.mainPhoto {
+  height: 250px;
+  margin: 0;
+  width: 100%;
+}

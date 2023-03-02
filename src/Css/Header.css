@@ -1,0 +1,25 @@
+.header-container {
+  align-items: center;
+  background-color: rgb(158, 157, 157);
+  display: flex;
+  height: 50px;
+  justify-content: space-around;
+}
+
+.header button {
+  height: 50px;
+  width: 50px;
+}
+
+.input-container {
+  align-items: center;
+  display: flex;
+  height: 40px;
+  justify-content: center;
+}
+
+.input-container input {
+  font-size: 18px;
+  height: 30px;
+  width: 320px;
+}
