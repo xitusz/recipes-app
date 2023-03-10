@@ -1,5 +1,5 @@
 # Recipes App
-[9/9] [Desenvolvimento Front-end](https://github.com/G-Alves1/Trybe/tree/main/02_Desenvolvimento-Front-end)
+[9/9] [Desenvolvimento Front-end](https://github.com/xitusz/Trybe/tree/main/02_Desenvolvimento-Front-end)
 
 ---
 
@@ -48,7 +48,7 @@
 
 * Clone o repositório
   ```sh
-    git clone git@github.com:G-Alves1/recipes-app.git
+    git clone git@github.com:xitusz/recipes-app.git
   ```
 
 ---
